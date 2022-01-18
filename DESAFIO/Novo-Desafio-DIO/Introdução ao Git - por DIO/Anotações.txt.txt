@@ -1,0 +1,3 @@
+Anotações que posso usar para o Git terminal
+
+- A começar pelos códigos

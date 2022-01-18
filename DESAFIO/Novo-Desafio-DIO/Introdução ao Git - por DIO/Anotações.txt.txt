@@ -1,3 +1,25 @@
 Anotações que posso usar para o Git terminal
 
 - A começar pelos códigos
+
+>ctrl + C -> PARAR A EXECUÇÃO
+>ctrl + L -> LIMPAR DIRETÓRIO
+GIT STATUS -> Ver o diretório
+GIT ADD -> Adicionar mudanças no repositório
+GIT CONFIG -> bom...nesse caso configurar o diretório
+DIR -> Mostrar todo diretório
+Tree/F -> Mostrar tudo no computador (...porém, use o ctrl + C pois isso não vai parar de modo algum)
+
+Branch -> Versões do seu sistema
+Commit -> Altera/Modifica um/num sistema
+
+
+
+------------------------------
+
+- CMD - / Configurações, apenas
+git -- version -> para saber qual versão de git tem em seu sistema
+git config -- global user.name "algum nome" -> para definir quem está trabalhando com o git
+git config -- global user.email "email" -> para definir o email
+git config -- global core.editor (e o nome do editor) sub <- definir o editor 
+git config -- list <- para ver toda alteração ou status em si
